@@ -15,7 +15,7 @@ namespace PlayerVault.Models
 
         public int Age { get; set; }
 
-        public decimal MarketValue { get; set; } // In million €
+        public decimal MarketValue { get; set; } // In million Euros
 
         public bool IsApproved { get; set; } = false; // Default: Not approved
 
