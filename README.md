@@ -6,11 +6,11 @@ The application is built with a clean UI, a strong C# backend, and features role
 👥 Authors
 This project was a collaborative effort by:
 
-Md Jawadur Rafid
+Md Jawadur Rafid [https://github.com/jawadur13]
 
-Nabid Ahamed Noushad
+Nabid Ahamed Noushad [https://github.com/nabid-ahamed]
 
-Taif Tanjil Srabon
+Taif Tanjil Srabon [https://github.com/mrdanny3128]
 
 ✨ Key Features
 PlayerVault is built with a focus on security, functionality, and user experience.
