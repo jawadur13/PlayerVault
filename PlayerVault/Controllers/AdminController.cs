@@ -108,5 +108,4 @@ public class AdminController : Controller
         return View(playersQuery.ToList());
     }
 
-
 }
