@@ -67,4 +67,5 @@ Support for player profile images
 
 Data import/export functionality
 
-Advanced pagination and search optimization
+Advanced pagination and search optimization 👍
+
